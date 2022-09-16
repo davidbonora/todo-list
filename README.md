@@ -22,3 +22,6 @@ And repeat
 `until finished`
 
 And with the example of getting some data out of the system or using it for a little demo
+
+## Deployment
+Add aditional notes to deploy this on a live system
