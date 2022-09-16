@@ -25,3 +25,7 @@ And with the example of getting some data out of the system or using it for a li
 
 ## Deployment
 Add aditional notes to deploy this on a live system
+
+## Built With
+ - [Contributor Covenant](http://www.imcocogreen.com) - Used for the Code of Conduct
+ - [Creative Commons](http://www.imcocogreen.com) - Used to choose the license
