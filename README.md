@@ -29,3 +29,10 @@ Add aditional notes to deploy this on a live system
 ## Built With
  - [Contributor Covenant](http://www.imcocogreen.com) - Used for the Code of Conduct
  - [Creative Commons](http://www.imcocogreen.com) - Used to choose the license
+
+ ## Authors
+ - David Miró
+    [davidbonora](https://github.com/davidbonora)
+
+- Oliver Green
+    [Cococod3](https://github.com/Cococod3)
