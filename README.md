@@ -7,5 +7,18 @@ It is a long established fact that a reader will be distracted by the readable c
 ## Prerrequisites
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque auctor hendrerit varius. Quisque maximus interdum.
 
-- Example #1
-- Example #2
+- [Example #1](https://www.markdownguide.org/cheat-sheet/)
+- [Example #2](https://www.markdownguide.org/cheat-sheet/)
+
+## Installing 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+Say what the step will be
+
+`Give the example`
+
+And repeat
+
+`until finished`
+
+And with the example of getting some data out of the system or using it for a little demo
