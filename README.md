@@ -36,3 +36,7 @@ Add aditional notes to deploy this on a live system
 
 - Oliver Green
     [Cococod3](https://github.com/Cococod3)
+
+    ## License 
+This project is licensed under the [CCp 1.0 Universal](http://www.imcocogreen.com)
+Creative Commons License - see the [LICENSE.md](http://www.imcocogreen.com) file for details
